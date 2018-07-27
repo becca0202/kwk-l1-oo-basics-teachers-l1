@@ -3,7 +3,7 @@ class Book
 end 
 
 
-book = Book.new()
+book = Book.new("Some Title")
 
 
 
