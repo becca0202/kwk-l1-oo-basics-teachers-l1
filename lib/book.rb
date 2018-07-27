@@ -24,6 +24,8 @@ class Book
   def genre
     @genre
   end 
+  def page_turn
+  end 
 end 
 
 book = Book.new("Some Title")
