@@ -12,9 +12,6 @@ class Book
   def author
     @author
   end 
-  
-  
-  
 end 
 
 book = Book.new("Some Title")
