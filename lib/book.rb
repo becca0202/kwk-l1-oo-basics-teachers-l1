@@ -3,10 +3,7 @@ class Book
   def initialize(title)
     @title = title 
   end 
-  
-  
 end 
-
 
 book = Book.new("Some Title")
 
